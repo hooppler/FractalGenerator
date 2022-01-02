@@ -1,0 +1,21 @@
+﻿<ad:LayoutAnchorable x:Class="FractalApp.View.DescriptionAnchorableView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ad="http://schemas.xceed.com/wpf/xaml/avalondock"
+             xmlns:local="clr-namespace:FractalApp.View"
+             mc:Ignorable="d"
+             Title="Description" CanDockAsTabbedDocument="False">
+
+
+    <TextBox Text="In mathematics, a fractal is a subset of Euclidean space with a fractal dimension that strictly exceeds its topological dimension. 
+                       Fractals appear the same at different scales,
+                       as illustrated in successive magnifications of the Mandelbrot set. 
+                       Fractals often exhibit similar patterns at increasingly smaller scales, 
+                       a property called self-similarity, also known as expanding symmetry or unfolding symmetry; 
+                       if this replication is exactly the same at every scale, 
+                       as in the Menger sponge, it is called affine self-similar. 
+                       Fractal geometry lies within the mathematical branch of measure theory." TextAlignment="Left" TextWrapping="Wrap" HorizontalAlignment="Stretch" VerticalScrollBarVisibility="Auto"/>
+
+</ad:LayoutAnchorable>
