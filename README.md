@@ -2,5 +2,10 @@
 Mandelbrot set generator
 
 Fractal Generator Screenshot
-[comment]: ![Screenshot](file://Media/FractalGeneratorScreenshot.PNG)
 ![Screenshot](Media/FractalGeneratorScreenshot.PNG)
+
+## Technologies Used
+- C#
+- WCF
+- AvalonDock
+- MVVM
